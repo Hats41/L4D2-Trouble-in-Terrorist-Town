@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+    "$basetexture"  "sprites/Dside/Dside"
+    "$translucent"  "1"
+    "$ignorez"      "0"
+    "$nofog"        "1"
+}
