@@ -1,7 +1,7 @@
-"UnlitGeneric"
+"Sprite"
 {
-    "$basetexture"  "sprites/Tside/Tside"
-    "$translucent"  "1"
-    "$ignorez"      "0"
-    "$nofog"        "1"
+    "$basetexture"       "sprites/Tside/Tside"
+    "$spriteorientation" "3"
+    "$spriteorigin"      "[ 0.50 0.50 ]"
+    "$translucent"       "1"
 }
