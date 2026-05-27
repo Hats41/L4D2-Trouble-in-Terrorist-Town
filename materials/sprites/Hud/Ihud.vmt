@@ -1,0 +1,7 @@
+"Sprite"
+{
+    "$basetexture"       "sprites/Hud/Ihud"
+    "$spriteorientation" "3"
+    "$spriteorigin"      "[ 0.50 0.50 ]"
+	"$translucent"       "1"
+}
