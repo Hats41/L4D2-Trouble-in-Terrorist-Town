@@ -1,0 +1,1614 @@
+"Phrases"
+{
+	// ==========================================
+	// GENERAL MESSAGES
+	// ==========================================
+	"Prefix"
+	{
+		"en"		"[TTT] "
+		"es"		"[TTT] "
+	}
+	"Round_Ended"
+	{
+		"en"		"The round has already ended. You can access the shop at the start of a new round."
+		"es"		"La ronda ya terminó. Podrás acceder a la tienda al inicio de una nueva ronda."
+	}
+	"Round_Not_Active"
+	{
+		"en"		"The match is not active."
+		"es"		"La partida no está activa."
+	}
+	"Dead_Cannot_Shop"
+	{
+		"en"		"Dead players cannot use the shop."
+		"es"		"Los muertos no pueden usar la tienda."
+	}
+	"Shop_Wait_Roles"
+	{
+		"en"		"The shop will be available when roles are assigned."
+		"es"		"La tienda estará disponible cuando se asignen los roles."
+	}
+	"Shop_Disabled"
+	{
+		"en"		"The shop is currently disabled."
+		"es"		"La tienda está actualmente deshabilitada."
+	}
+
+	// ==========================================
+	// SHOP MENUS
+	// ==========================================
+	"Shop_Menu_Title"
+	{
+		"#format"	"{1:d}"
+		"en"		"TTT SHOP\n\nCredits: {1}"
+		"es"		"TIENDA TTT\n\nCréditos: {1}"
+	}
+	"Shop_Item_Format"
+	{
+		"#format"	"{1:s},{2:d},{3:s}"
+		"en"		"{1} - {2} credit{3}"
+		"es"		"{1} - {2} crédito{3}"
+	}
+
+	// ==========================================
+	// SHOP ITEMS - TITLES
+	// ==========================================
+	"Shop_Item_Kevlar"
+	{
+		"en"		"Kevlar Vest"
+		"es"		"Chaleco"
+	}
+	"Shop_Item_Ammo"
+	{
+		"en"		"Ammunition"
+		"es"		"Munición"
+	}
+	"Shop_Item_Bat"
+	{
+		"en"		"Wooden Bat (Stun)"
+		"es"		"Bate de madera (Stun)"
+	}
+	"Shop_Item_Deagle"
+	{
+		"en"		"Desert Eagle"
+		"es"		"Desert Eagle"
+	}
+	"Shop_Item_Pills"
+	{
+		"en"		"Pain Pills"
+		"es"		"Píldora"
+	}
+	"Shop_Item_Taser"
+	{
+		"en"		"Taser"
+		"es"		"Taser"
+	}
+	"Shop_Item_TraitorNext"
+	{
+		"en"		"Be Traitor Next Round"
+		"es"		"Ser traidor sig. ronda"
+	}
+	"Shop_Item_DetectiveNow"
+	{
+		"en"		"Become Detective Now"
+		"es"		"Ser detective ahora"
+	}
+	"Shop_Item_TraitorNow"
+	{
+		"en"		"Become Traitor Now"
+		"es"		"Ser traidor ahora"
+	}
+	"Shop_Item_KevlarHelmet"
+	{
+		"en"		"Kevlar + Helmet"
+		"es"		"Chaleco + Casco"
+	}
+	"Shop_Item_Horde"
+	{
+		"en"		"Invoke Horde"
+		"es"		"Invocar Horda"
+	}
+	"Shop_Item_Wallhack"
+	{
+		"en"		"Wallhack"
+		"es"		"Wallhack"
+	}
+	"Shop_Item_GL"
+	{
+		"en"		"Grenade Launcher"
+		"es"		"Lanzagranadas"
+	}
+	"Shop_Item_C4"
+	{
+		"en"		"C4 Explosive"
+		"es"		"C4"
+	}
+	"Shop_Item_Missile"
+	{
+		"en"		"Missile"
+		"es"		"Misil"
+	}
+	"Shop_Item_SpecialInfected"
+	{
+		"en"		"Special Infected"
+		"es"		"Infectado Especial"
+	}
+	"Shop_Item_Tank"
+	{
+		"en"		"Invoke Tank"
+		"es"		"Invocar Tank"
+	}
+	"Shop_Item_Defuser"
+	{
+		"en"		"C4 Defuser"
+		"es"		"Defuser de C4"
+	}
+	"Shop_Item_Identifier"
+	{
+		"en"		"Corpse Identifier"
+		"es"		"Identificador de cadáver"
+	}
+	"Shop_Item_Lootbox"
+	{
+		"en"		"Lootbox"
+		"es"		"Lootbox"
+	}
+	"Shop_Item_Immortality"
+	{
+		"en"		"Immortality"
+		"es"		"Inmortalidad"
+	}
+
+	// ==========================================
+	// SHOP ITEM DESCRIPTIONS (CONFIRM MENU)
+	// ==========================================
+	"Shop_Desc_Kevlar"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Kevlar Vest\nPrice: {1} credit{2}.\nReduces a percentage of body damage.\n "
+		"es"		"Chaleco\nPrecio: {1} crédito{2}.\nReduce un porcentaje del daño al cuerpo.\n "
+	}
+	"Shop_Desc_Pills"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Pain Pills\nPrice: {1} credit{2}.\nGrants progressive regeneration.\n "
+		"es"		"Píldora\nPrecio: {1} crédito{2}.\nOtorga regeneración progresiva.\n "
+	}
+	"Shop_Desc_GL"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Grenade Launcher\nPrice: {1} credit{2}.\nLethal single-shot weapon.\n "
+		"es"		"Lanzagranadas\nPrecio: {1} crédito{2}.\nArma letal de un solo tiro.\n "
+	}
+	"Shop_Desc_Wallhack"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Wallhack\nPrice: {1} credit{2}.\nShows the aura of innocents for 3 seconds.\n "
+		"es"		"Wallhack\nPrecio: {1} crédito{2}.\nMuestra el aura de los inocentes por 3 segundos.\n "
+	}
+	"Shop_Desc_C4"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"C4 Explosive\nPrice: {1} credit{2}.\nPlants a lethal explosive that detonates in 40 seconds.\n "
+		"es"		"C4\nPrecio: {1} crédito{2}.\nPlanta un explosivo letal que detona a los 40 segundos.\n "
+	}
+	"Shop_Desc_Missile"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Missile\nPrice: {1} credit{2}.\nLaunches a missile you control until impact.\n "
+		"es"		"Misil\nPrecio: {1} crédito{2}.\nLanza un misil que controlas hasta impactar.\n "
+	}
+	"Shop_Desc_Taser"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Taser\nPrice: {1} credit{2}.\nDiscover the role of a player by hitting them.\n "
+		"es"		"Taser\nPrecio: {1} crédito{2}.\nDescubre el rol de un jugador golpeándolo.\n "
+	}
+	"Shop_Desc_Defuser"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"C4 Defuser\nPrice: {1} credit{2}.\nFacilitates C4 defusing (one use per bomb).\n "
+		"es"		"Defuser de C4\nPrecio: {1} crédito{2}.\nFacilita la desactivación del C4 (un uso por bomba).\n "
+	}
+	"Shop_Desc_TraitorNext"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Traitor (Next Round)\nPrice: {1} credit{2}.\nYou will be a traitor next round.\n "
+		"es"		"Traidor (Sig. Ronda)\nPrecio: {1} crédito{2}.\nSerás traidor en la siguiente ronda.\n "
+	}
+	"Shop_Desc_TraitorNow"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Traitor Now\nPrice: {1} credit{2}.\nTurns you into a traitor immediately.\n "
+		"es"		"Traidor Ahora\nPrecio: {1} crédito{2}.\nTe convierte en traidor inmediatamente.\n "
+	}
+	"Shop_Desc_DetectiveNow"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Detective Now\nPrice: {1} credit{2}.\nTurns you into a detective immediately.\n "
+		"es"		"Detective Ahora\nPrecio: {1} crédito{2}.\nTe convierte en detective inmediatamente.\n "
+	}
+	"Shop_Desc_Immortality"
+	{
+		"#format"	"{1:d},{2:s},{3:f}"
+		"en"		"Immortality\nPrice: {1} credit{2}.\nMakes you invulnerable to all damage for {3} seconds.\n "
+		"es"		"Inmortalidad\nPrecio: {1} crédito{2}.\nTe vuelve invulnerable a todo daño por {3} segundos.\n "
+	}
+	"Shop_Desc_Deagle"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Desert Eagle\nPrice: {1} credit{2}.\nA powerful standard Magnum pistol.\n "
+		"es"		"Desert Eagle\nPrecio: {1} crédito{2}.\nUna poderosa pistola Magnum estándar.\n "
+	}
+	"Shop_Desc_Bat"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Wooden Bat\nPrice: {1} credit{2}.\nTemporarily stuns the target but breaks.\n "
+		"es"		"Bate de Madera\nPrecio: {1} crédito{2}.\nStunnea temporalmente al objetivo pero se rompe.\n "
+	}
+	"Shop_Desc_Horde"
+	{
+		"#format"	"{1:d},{2:s},{3:f}"
+		"en"		"Invoke Horde\nPrice: {1} credit{2}.\nInvokes 30 common zombies to attack everyone.\n(Global cooldown: {3}s)\n "
+		"es"		"Invocar Horda\nPrecio: {1} crédito{2}.\nInvoca 30 zombies comunes que atacan a todos.\n(Enfriamiento global: {3}s)\n "
+	}
+	"Shop_Desc_SpecialInfected"
+	{
+		"#format"	"{1:d},{2:s},{3:f}"
+		"en"		"Special Infected\nPrice: {1} credit{2}.\nSpawns a random grabber infected where you aim.\n(Global cooldown: {3}s)\n "
+		"es"		"Infectado Especial\nPrecio: {1} crédito{2}.\nSpawnea un infectado de agarre al azar donde estés apuntando.\n(Enfriamiento global: {3}s)\n "
+	}
+	"Shop_Desc_KevlarHelmet"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Kevlar + Helmet\nPrice: {1} credit{2}.\nReduces a percentage of damage to the body and head.\n "
+		"es"		"Chaleco + Casco\nPrecio: {1} crédito{2}.\nReduce un porcentaje del daño al cuerpo y a la cabeza.\n "
+	}
+	"Shop_Desc_Identifier"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Corpse Identifier\nPrice: {1} credit{2}.\nReveals the killer of a corpse.\n "
+		"es"		"Identificador de cadáver\nPrecio: {1} crédito{2}.\nRevela el asesino de un muerto.\n "
+	}
+	"Shop_Desc_Ammo"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Ammunition\nPrice: {1} credit{2}.\nRefills your primary weapon ammo to maximum.\n "
+		"es"		"Munición\nPrecio: {1} crédito{2}.\nRecarga la munición de tu arma primaria al máximo.\n "
+	}
+	"Shop_Desc_Tank"
+	{
+		"#format"	"{1:d},{2:s},{3:f}"
+		"en"		"Invoke Tank\nPrice: {1} credit{2}.\nSpawns a Tank where you aim.\n(Personal cooldown: {3}s)\n "
+		"es"		"Invocar Tank\nPrecio: {1} crédito{2}.\nSpawnea un Tank donde estés apuntando.\n(Enfriamiento personal: {3}s)\n "
+	}
+	"Shop_Desc_Lootbox"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Lootbox\nPrice: {1} credit{2}.\nDrops a box that yields a random shop item when opened.\nAnyone can open it!\n "
+		"es"		"Lootbox\nPrecio: {1} crédito{2}.\nLanza una caja que al abrirla da un \nítem aleatorio de la tienda.\n¡Cualquiera puede abrirla!\n "
+	}
+
+	"Shop_Buy"
+	{
+		"en"		"Buy"
+		"es"		"Comprar"
+	}
+	"Shop_Back"
+	{
+		"en"		"Back"
+		"es"		"Volver"
+	}
+	"Shop_NoCredits"
+	{
+		"en"		"You don't have enough credits."
+		"es"		"No tienes suficientes créditos."
+	}
+	"Shop_Hostile"
+	{
+		"en"		"We don't sell to Hostile people."
+		"es"		"No le vendemos a gente Hostil."
+	}
+	"Shop_ViolentRole"
+	{
+		"en"		"Your reputation is too low to buy this role."
+		"es"		"Tu reputación es demasiado baja para comprar este rol."
+	}
+	
+	"Shop_Bought"
+	{
+		"#format"	"{1:s}"
+		"en"		"You bought: {1}."
+		"es"		"Has comprado: {1}."
+	}
+	
+	// Errors
+	"Shop_Already_Kevlar"
+	{
+		"en"		"You already have Kevlar equipped."
+		"es"		"Ya tienes Chaleco equipado."
+	}
+	"Shop_Already_KevlarHelmet"
+	{
+		"en"		"You already have Kevlar and Helmet equipped."
+		"es"		"Ya tienes Chaleco y Casco equipados."
+	}
+	"Shop_Pills_SlotFull"
+	{
+		"en"		"You can't buy Pills if you already have an item in that slot."
+		"es"		"No puedes comprar Píldoras si ya tienes un ítem en ese espacio."
+	}
+	"Shop_Already_GL"
+	{
+		"en"		"You already have a Grenade Launcher equipped."
+		"es"		"Ya tienes un Lanzagranadas equipado."
+	}
+	"Shop_Already_Wallhack"
+	{
+		"en"		"You already have Wallhack active."
+		"es"		"Ya tienes Wallhack activo."
+	}
+	"Shop_Already_Defuser"
+	{
+		"en"		"You already have a Defuser Kit equipped."
+		"es"		"Ya tienes un Kit de Desarme equipado."
+	}
+	"Shop_Already_C4"
+	{
+		"en"		"You already have a C4 ready."
+		"es"		"Ya tienes un C4 preparado."
+	}
+	"Shop_Already_Missile"
+	{
+		"en"		"You already have a Missile ready to launch."
+		"es"		"Ya tienes un Misil preparado para lanzar."
+	}
+	"Shop_Already_Taser"
+	{
+		"en"		"You already have a Taser equipped."
+		"es"		"Ya tienes un Taser equipado."
+	}
+	"Shop_Already_Identifier"
+	{
+		"en"		"You already have an Identifier."
+		"es"		"Ya tienes un identificador."
+	}
+	"Shop_Already_Traitor"
+	{
+		"en"		"You are already a Traitor."
+		"es"		"Ya eres Traidor."
+	}
+	"Shop_Already_Detective"
+	{
+		"en"		"You are already a Detective."
+		"es"		"Ya eres Detective."
+	}
+	"Shop_Already_Deagle"
+	{
+		"en"		"You already have a Desert Eagle."
+		"es"		"Ya tienes una Desert Eagle."
+	}
+	"Shop_Already_Bat"
+	{
+		"en"		"You already have a Bat equipped."
+		"es"		"Ya tienes un Bate equipado."
+	}
+	"Shop_Already_Immortality"
+	{
+		"en"		"You already have Immortality active."
+		"es"		"Ya tienes Inmortalidad activa."
+	}
+	
+	"Shop_NextRoundTraitor_Already"
+	{
+		"en"		"You already bought the possibility for the next round."
+		"es"		"Ya compraste la posibilidad para la próxima ronda."
+	}
+	"Shop_NextRoundTraitor_Detective"
+	{
+		"en"		"You are opted-in for Detective. Type !detective to cancel first."
+		"es"		"Estás postulado para Detective. Escribe !detective para cancelar primero."
+	}
+	
+	"Shop_Cooldown_Horde"
+	{
+		"#format"	"{1:f}"
+		"en"		"The Horde is still on cooldown ({1}s remaining)."
+		"es"		"La Horda aún está en enfriamiento ({1}s restantes)."
+	}
+	"Shop_Cooldown_Infected"
+	{
+		"#format"	"{1:f}"
+		"en"		"The Special Infected is still on cooldown ({1}s remaining)."
+		"es"		"El infectado aún está en enfriamiento ({1}s restantes)."
+	}
+	"Shop_Cooldown_Tank"
+	{
+		"#format"	"{1:f}"
+		"en"		"The Tank is still on cooldown ({1}s remaining)."
+		"es"		"El Tank aún está en enfriamiento ({1}s restantes)."
+	}
+	
+	"Shop_Broadcast_Horde"
+	{
+		"en"		"A Traitor has invoked a ZOMBIE HORDE!"
+		"es"		"¡Un Traidor ha invocado una HORDA DE ZOMBIES!"
+	}
+	"Shop_Bought_Missile_Server"
+	{
+		"#format"	"{1:N}"
+		"en"		"[TTT] {1} bought a Missile."
+		"es"		"[TTT] {1} compró un Misil."
+	}
+
+	// ==========================================
+	// KARMA
+	// ==========================================
+	"Karma_Rank_Formal"
+	{
+		"en"		"Formal"
+		"es"		"Formal"
+	}
+	"Karma_Rank_Neutral"
+	{
+		"en"		"Neutral"
+		"es"		"Neutral"
+	}
+	"Karma_Rank_Suspect"
+	{
+		"en"		"Suspect"
+		"es"		"Sospechoso"
+	}
+	"Karma_Rank_Violent"
+	{
+		"en"		"Violent"
+		"es"		"Violento"
+	}
+	"Karma_Rank_Hostile"
+	{
+		"en"		"Hostile"
+		"es"		"Hostil"
+	}
+
+	"Karma_Current"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"Your Karma: {1} ({green}{2}{default})"
+		"es"		"Tu Karma: {1} ({green}{2}{default})"
+	}
+	"Karma_Log_Title"
+	{
+		"en"		"--- Karma Log (Previous Round) ---"
+		"es"		"--- Historial de Karma (Ronda Anterior) ---"
+	}
+	"Karma_Log_Footer"
+	{
+		"en"		"-----------------------------------------------"
+		"es"		"-----------------------------------------------"
+	}
+	"Karma_Log_Positive"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} [{green}+{2}{default}]"
+		"es"		"{1} [{green}+{2}{default}]"
+	}
+	"Karma_Log_Negative"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} [{green}{2}{default}]"
+		"es"		"{1} [{green}{2}{default}]"
+	}
+	"Karma_View"
+	{
+		"#format"	"{1:N},{2:d},{3:s},{4:d}"
+		"en"		"Karma of {1}: {2} ({3}) | Clean Streak: {4}"
+		"es"		"Karma de {1}: {2} ({3}) | Racha limpia: {4}"
+	}
+	"Karma_Set"
+	{
+		"#format"	"{1:N},{2:d},{3:s}"
+		"en"		"Karma of {1} set to {2} ({3}). Applied to Active as well."
+		"es"		"Karma de {1} establecido a {2} ({3}). Aplicado al Activo también."
+	}
+	"Karma_Add"
+	{
+		"#format"	"{1:N},{2:d},{3:d},{4:s}"
+		"en"		"Karma of {1} modified by {2} (Total: {3} - {4}). Applied to Active."
+		"es"		"Karma de {1} modificado en {2} (Total: {3} - {4}). Aplicado al Activo."
+	}
+	"Usage_ViewKarma"
+	{
+		"en"		"Usage: sm_viewkarma <#userid|name>"
+		"es"		"Uso: sm_viewkarma <#userid|nombre>"
+	}
+	"Usage_SetKarma"
+	{
+		"en"		"Usage: sm_setkarma <#userid|name> <value>"
+		"es"		"Uso: sm_setkarma <#userid|nombre> <valor>"
+	}
+	"Usage_AddKarma"
+	{
+		"en"		"Usage: sm_addkarma <#userid|name> <amount>"
+		"es"		"Uso: sm_addkarma <#userid|nombre> <cantidad>"
+	}
+
+	// ==========================================
+	// ROLE ASSIGNMENTS
+	// ==========================================
+	"Role_Assign_Traitors1"
+	{
+		"en"		"{green}1 Traitor{default}"
+		"es"		"{green}1 Traidor{default}"
+	}
+	"Role_Assign_TraitorsN"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}{1} Traitors{default}"
+		"es"		"{green}{1} Traidores{default}"
+	}
+	"Role_Assign_Detectives1"
+	{
+		"en"		" and {lightgreen}1 Detective{default}"
+		"es"		" y {lightgreen}1 Detective{default}"
+	}
+	"Role_Assign_DetectivesN"
+	{
+		"#format"	"{1:d}"
+		"en"		" and {lightgreen}{1} Detectives{default}"
+		"es"		" y {lightgreen}{1} Detectives{default}"
+	}
+	"Role_Assign_Verb1"
+	{
+		"en"		"has been selected"
+		"es"		"ha sido seleccionado"
+	}
+	"Role_Assign_VerbN"
+	{
+		"en"		"have been selected"
+		"es"		"han sido seleccionados"
+	}
+	"Role_Assign_Final"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{1}{2} {3}."
+		"es"		"{1}{2} {3}."
+	}
+	"Role_YouAre_Traitor"
+	{
+		"en"		"You are a {green}TRAITOR{default}."
+		"es"		"Eres un {green}TRAIDOR{default}."
+	}
+	"Role_Traitor_Mates"
+	{
+		"en"		"Your fellow traitors are:"
+		"es"		"Tus compañeros traidores son:"
+	}
+	"Role_YouAre_Detective"
+	{
+		"en"		"You are a {lightgreen}DETECTIVE{default}."
+		"es"		"Eres un {lightgreen}DETECTIVE{default}."
+	}
+	"Role_Detective_Equip"
+	{
+		"en"		"You equipped Kevlar and Helmet."
+		"es"		"Te equipaste Chaleco y Casco."
+	}
+	"Role_Detective_Mates"
+	{
+		"en"		"Your fellow detectives are:"
+		"es"		"Tus compañeros detectives son:"
+	}
+	"Role_YouAre_Innocent"
+	{
+		"en"		"You are an {olive}INNOCENT{default}."
+		"es"		"Eres un {olive}INOCENTE{default}."
+	}
+
+	// ==========================================
+	// HINTS & UI
+	// ==========================================
+	"Hint_AimingAt"
+	{
+		"#format"	"{1:N},{2:s},{3:s}"
+		"en"		"Aiming at: {1}\nStatus: {2}\nReputation: {3}"
+		"es"		"Apuntando a: {1}\nEstado: {2}\nReputación: {3}"
+	}
+	"Hint_Unscanned"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} (Unscanned)"
+		"es"		"{1} (Sin escanear)"
+	}
+	"Hint_RoundStartIn"
+	{
+		"#format"	"{1:d},{2:d},{3:d}"
+		"en"		"Round {1}/{2} will start in {3} seconds"
+		"es"		"La ronda {1}/{2} empezará en {3} segundos"
+	}
+	"Hint_RoundStarted"
+	{
+		"#format"	"{1:d}"
+		"en"		"Round {1} has started!"
+		"es"		"¡La ronda {1} ha iniciado!"
+	}
+	"Hint_RoundOver"
+	{
+		"en"		"Round Over!"
+		"es"		"¡Ronda Terminada!"
+	}
+
+	// ==========================================
+	// BODY SCANNING
+	// ==========================================
+	"Body_Found_Traitor"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{1} found the body of {green}{2}{default}. He was a {green}TRAITOR{default}!"
+		"es"		"{1} ha encontrado el cuerpo de {green}{2}{default}. ¡Era un {green}TRAIDOR{default}!"
+	}
+	"Body_Found_Detective"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{1} found the body of {lightgreen}{2}{default}. He was a {lightgreen}DETECTIVE{default}!"
+		"es"		"{1} ha encontrado el cuerpo de {lightgreen}{2}{default}. ¡Era un {lightgreen}DETECTIVE{default}!"
+	}
+	"Body_Found_Innocent"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{1} found the body of {olive}{2}{default}. He was an {olive}INNOCENT{default}!"
+		"es"		"{1} ha encontrado el cuerpo de {olive}{2}{default}. ¡Era un {olive}INOCENTE{default}!"
+	}
+	"Body_Time_Seconds"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} seconds ago"
+		"es"		"hace {1} segundos"
+	}
+	"Body_Time_Minutes"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} minutes ago"
+		"es"		"hace {1} minutos"
+	}
+
+	// ==========================================
+	// CHAT CHANNELS
+	// ==========================================
+	"Chat_Dead_Prefix"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"*DEAD* {1}: {2}"
+		"es"		"*MUERTO* {1}: {2}"
+	}
+	"Chat_Role_Dead"
+	{
+		"en"		"The dead cannot use role chat."
+		"es"		"Los muertos no pueden usar el chat de rol."
+	}
+	"Chat_Traitor_Only"
+	{
+		"en"		"Only Traitors can use this chat."
+		"es"		"Sólo los Traidores pueden usar este chat."
+	}
+	"Chat_Traitor_Usage"
+	{
+		"en"		"Usage: /t <message>"
+		"es"		"Uso: /t <mensaje>"
+	}
+	"Chat_Traitor_Format"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{green}TRAITOR {1}{default}: {green}{2}"
+		"es"		"{green}TRAIDOR {1}{default}: {green}{2}"
+	}
+	"Chat_Detective_Only"
+	{
+		"en"		"Only Detectives can use this chat."
+		"es"		"Sólo los Detectives pueden usar este chat."
+	}
+	"Chat_Detective_Usage"
+	{
+		"en"		"Usage: /d <message>"
+		"es"		"Uso: /d <mensaje>"
+	}
+	"Chat_Detective_Format"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{lightgreen}DETECTIVE {1}{default}: {lightgreen}{2}"
+		"es"		"{lightgreen}DETECTIVE {1}{default}: {lightgreen}{2}"
+	}
+
+	// ==========================================
+	// ROUND SUMMARY
+	// ==========================================
+	"Summary_Log_Title"
+	{
+		"en"		"------------- Log -------------"
+		"es"		"------------- Registro -------------"
+	}
+	"Summary_Log_Positive"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} [{green}+{2} cr{default}]"
+		"es"		"{1} [{green}+{2} cr{default}]"
+	}
+	"Summary_Log_Negative"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} [{green}{2} cr{default}]"
+		"es"		"{1} [{green}{2} cr{default}]"
+	}
+	"Summary_Total"
+	{
+		"#format"	"{1:d}"
+		"en"		"---> Round Total: {green}{1} cr{default}"
+		"es"		"---> Total de la ronda: {green}{1} cr{default}"
+	}
+	"Summary_Divider"
+	{
+		"en"		"------------------------------------"
+		"es"		"------------------------------------"
+	}
+	"Summary_Karma_Updated"
+	{
+		"en"		"Karma updated."
+		"es"		"Karma actualizado."
+	}
+
+	// ==========================================
+	// DEATH EVENTS & KARMA LOGS
+	// ==========================================
+	"Death_Legit_Defense"
+	{
+		"en"		"Legitimate defense. You don't lose Karma."
+		"es"		"Defensa legítima. No pierdes Karma."
+	}
+	"Death_Killed_Innocent"
+	{
+		"en"		"You killed an {olive}INNOCENT{default}."
+		"es"		"Has matado a un {olive}INOCENTE{default}."
+	}
+	"Death_Killed_Detective"
+	{
+		"en"		"You killed a {lightgreen}DETECTIVE{default}."
+		"es"		"Has matado a un {lightgreen}DETECTIVE{default}."
+	}
+	"Death_Killed_Traitor"
+	{
+		"en"		"You killed a {green}TRAITOR{default}."
+		"es"		"Has matado a un {green}TRAIDOR{default}."
+	}
+	"Death_Killer_Innocent"
+	{
+		"en"		"Your killer is an {olive}INNOCENT{default}."
+		"es"		"Tu asesino es un {olive}INOCENTE{default}."
+	}
+	"Death_Killer_Detective"
+	{
+		"en"		"Your killer is a {lightgreen}DETECTIVE{default}."
+		"es"		"Tu asesino es un {lightgreen}DETECTIVE{default}."
+	}
+	"Death_Killer_Traitor"
+	{
+		"en"		"Your killer is a {green}TRAITOR{default}."
+		"es"		"Tu asesino es un {green}TRAIDOR{default}."
+	}
+	"Karma_Log_Teamkill"
+	{
+		"en"		"Teamkill Penalty"
+		"es"		"Penalización por Teamkill"
+	}
+	"Karma_Log_ValidKill"
+	{
+		"en"		"First Valid Kill"
+		"es"		"Primer Kill Válido"
+	}
+
+	// ==========================================
+	// ITEMS & MECHANICS
+	// ==========================================
+	"Item_Ammo"
+	{
+		"en"		"You picked up an Ammo Stash."
+		"es"		"Has recogido un Alijo de Munición."
+	}
+	"Stun_Attacker"
+	{
+		"#format"	"{1:N}"
+		"en"		"You stunned {1} with your bat."
+		"es"		"Aturdiste a {1} con tu bate."
+	}
+	"Stun_Victim"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} stunned you with a wooden bat."
+		"es"		"{1} te aturdió con un bate de madera."
+	}
+	"Taser_Label"
+	{
+		"en"		"Tased a {green}Traitor{default}"
+		"es"		"Taser a {green}Traidor{default}"
+	}
+	"Taser_Innocent"
+	{
+		"en"		"Tased an {olive}Innocent{default}"
+		"es"		"Taser a {olive}Inocente{default}"
+	}
+	"Taser_Detective"
+	{
+		"en"		"Tased a Detective"
+		"es"		"Taser a Detective"
+	}
+	"Give_Wallhack_Active"
+	{
+		"en"		"You already have Wallhack active."
+		"es"		"Ya tienes Wallhack activo."
+	}
+	"Give_Immortality_Done"
+	{
+		"#format"	"{1:N}"
+		"en"		"[SM] You gave immortality to {1}."
+		"es"		"[SM] Has dado inmortalidad a {1}."
+	}
+	"Immortality_Expired"
+	{
+		"en"		"Your immortality has expired."
+		"es"		"Tu inmortalidad ha expirado."
+	}
+	"Lootbox_Duplicate"
+	{
+		"#format"	"{1:d}"
+		"en"		"This item is already in your inventory. You've been refunded {1} credits."
+		"es"		"Este item ya está en tu inventario, por ende se te devolvieron {1} créditos."
+	}
+	"Admin_Wallhack"
+	{
+		"en"		"(ADMIN) You forced the Wallhack."
+		"es"		"(ADMIN) Has forzado el Wallhack."
+	}
+	"Spawn_Special"
+	{
+		"#format"	"{1:s}"
+		"en"		"You spawned a {1}."
+		"es"		"Spawneaste un {1}."
+	}
+	
+	// ==========================================
+	// MENUS & UI
+	// ==========================================
+	"Corpse_Title"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"		"Corpse Details:\n- Victim: {1}\n- Role: {2}\n- Weapon: {3}\n- Time: {4}\n- Reason: {5}"
+		"es"		"Detalles del cadáver:\n- Víctima: {1}\n- Rol: {2}\n- Arma: {3}\n- Tiempo: {4}\n- Razón: {5}"
+	}
+	"Role_Unknown"
+	{
+		"en"		"Unknown"
+		"es"		"Desconocido"
+	}
+	"Corpse_Reason_You"
+	{
+		"en"		"You"
+		"es"		"Tú"
+	}
+	"Menu_Detective_Active"
+	{
+		"en"		"You have an active purchase in the shop.\nIf you become a Detective, you will lose your item."
+		"es"		"Tienes una compra activa en la tienda.\nSi te conviertes en Detective perderás tu item."
+	}
+	"Menu_Detective_Cancel"
+	{
+		"en"		"Yes, cancel purchase and apply"
+		"es"		"Sí, cancelar compra e inscribirse"
+	}
+	"Menu_Detective_Keep"
+	{
+		"en"		"No, keep my purchase"
+		"es"		"No, mantener mi compra"
+	}
+	"Menu_Detective_Confirm"
+	{
+		"en"		"Do you want to apply to be a Detective?\nDetectives are revealed at the start\nand are meant to lead the team."
+		"es"		"¿Quieres ser Detective?\nLos detectives son revelados al inicio\ny están encargados de guiar al equipo."
+	}
+	"Menu_Detective_Yes"
+	{
+		"en"		"Yes, I want to be a Detective"
+		"es"		"Sí, quiero ser Detective"
+	}
+	"Menu_Detective_No"
+	{
+		"en"		"No, thanks"
+		"es"		"No, gracias"
+	}
+	"Menu_Detective_Cancelled"
+	{
+		"en"		"Purchase canceled. You applied to be a Detective."
+		"es"		"Compra cancelada. Te has postulado para ser Detective."
+	}
+	"Menu_Detective_Applied"
+	{
+		"en"		"You applied to be a Detective."
+		"es"		"Te has postulado para ser Detective."
+	}
+	"Menu_Detective_Revoked"
+	{
+		"en"		"You are no longer a Detective candidate."
+		"es"		"Ya no eres candidato a Detective."
+	}
+	"Admin_Role_Truce"
+	{
+		"en"		"You cannot assign roles during the truce."
+		"es"		"No puedes asignar roles durante la tregua."
+	}
+	"Admin_Role_Traitor"
+	{
+		"en"		"You are a {green}TRAITOR{default} (Admin Override)."
+		"es"		"Eres un {green}TRAIDOR{default} (Admin Override)."
+	}
+	"Admin_Role_Detective"
+	{
+		"en"		"You are a DETECTIVE (Admin Override)."
+		"es"		"Eres un DETECTIVE (Admin Override)."
+	}
+	"Admin_Role_Innocent"
+	{
+		"en"		"You are an {olive}INNOCENT{default} (Admin Override)."
+		"es"		"Eres un {olive}INOCENTE{default} (Admin Override)."
+	}
+	"Admin_Role_Updated"
+	{
+		"en"		"Roles updated."
+		"es"		"Roles actualizados."
+	}
+
+	// ==========================================
+	// HUD HINTS
+	// ==========================================
+	"HUD_RoundTime"
+	{
+		"#format"	"{1:d},{2:02d}"
+		"en"		"Round Time: {1}:{2}"
+		"es"		"Tiempo de ronda: {1}:{2}"
+	}
+	"HUD_Healthy"
+	{
+		"en"		"Healthy"
+		"es"		"Saludable"
+	}
+	"HUD_Damaged"
+	{
+		"en"		"Damaged"
+		"es"		"Dañado"
+	}
+	"HUD_Hurt"
+	{
+		"en"		"Hurt"
+		"es"		"Herido"
+	}
+	"HUD_Severe"
+	{
+		"en"		"Severely hurt"
+		"es"		"Gravemente herido"
+	}
+	"HUD_Critical"
+	{
+		"en"		"Almost dead"
+		"es"		"Casi muerto"
+	}
+
+	// ==========================================
+	// C4 DEFUSE
+	// ==========================================
+	"C4_Defuse_Title"
+	{
+		"#format"	"{1:.0f}"
+		"en"		"Defusing C4\nTime remaining: {1} s\n \nCut a wire!"
+		"es"		"Desarmando C4\nTiempo restante: {1} s\n \n¡Corta un cable!"
+	}
+	"C4_Wire_Red"
+	{
+		"en"		"RED"
+		"es"		"ROJO"
+	}
+	"C4_Wire_Green"
+	{
+		"en"		"GREEN"
+		"es"		"VERDE"
+	}
+	"C4_Wire_Blue"
+	{
+		"en"		"BLUE"
+		"es"		"AZUL"
+	}
+	"C4_Wire_Yellow"
+	{
+		"en"		"YELLOW"
+		"es"		"AMARILLO"
+	}
+	"C4_Wire_White"
+	{
+		"en"		"WHITE"
+		"es"		"BLANCO"
+	}
+	"C4_Wire_Format"
+	{
+		"#format"	"{1:s}"
+		"en"		"Wire {1}"
+		"es"		"Cable {1}"
+	}
+	"C4_Defuse_Success"
+	{
+		"en"		"You successfully defused the C4."
+		"es"		"Desarmaste exitosamente el C4."
+	}
+	"C4_Defuse_Owner"
+	{
+		"en"		"A player defused your C4!"
+		"es"		"¡Un jugador desarmó tu C4!"
+	}
+	"C4_Defuse_Fail_Defuser"
+	{
+		"en"		"Defuser Failure! The C4 will explode in 3 SECONDS."
+		"es"		"¡Fallo del Defuser! El C4 explotará en 3 SEGUNDOS."
+	}
+	"C4_Defuse_Fail_Time"
+	{
+		"en"		"Wrong wire! Time reduced by half."
+		"es"		"¡Cable incorrecto! El tiempo se redujo a la mitad."
+	}
+	"C4_Defuse_Fail_Explode"
+	{
+		"en"		"Wrong wire! IMMINENT EXPLOSION!"
+		"es"		"¡Cable incorrecto! ¡EXPLOSIÓN INMINENTE!"
+	}
+
+	// ==========================================
+	// WIN CONDITIONS & RANDOM EVENTS
+	// ==========================================
+	"Win_Survivor"
+	{
+		"en"		"Survivor"
+		"es"		"Sobreviviente"
+	}
+	"Win_Survivor_Karma"
+	{
+		"en"		"Survivor (Blocked by Karma)"
+		"es"		"Sobreviviente (Bloqueado por Karma)"
+	}
+	"Piano_Death"
+	{
+		"en"		"A piano fell on you..."
+		"es"		"Un piano te cayó encima..."
+	}
+	"Admin_Piano"
+	{
+		"en"		"(ADMIN) You forced the piano spawn."
+		"es"		"(ADMIN) Has forzado el spawn del piano."
+	}
+	"Admin_Randomizer"
+	{
+		"en"		"(ADMIN) You forced a Randomizer."
+		"es"		"(ADMIN) Has forzado un Randomizer."
+	}
+
+	// ==========================================
+	// RTV
+	// ==========================================
+	"RTV_Title"
+	{
+		"#format"	"{1:d}"
+		"en"		"RTV ({1}s left)"
+		"es"		"RTV (Faltan {1}s)"
+	}
+	"RTV_Extend_Option"
+	{
+		"#format"	"{1:d}"
+		"en"		"Extend Map (+{1} rounds)"
+		"es"		"Alargar mapa (+{1} rondas)"
+	}
+	"RTV_Extend_Map"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"The map has been extended by {1} rounds! Current limit: {2} rounds."
+		"es"		"¡El mapa ha sido alargado por {1} rondas más! Límite actual: {2} rondas."
+	}
+	"RTV_End_Change"
+	{
+		"#format"	"{1:s}"
+		"en"		"Rounds are over! Changing map to: {1}..."
+		"es"		"¡Las rondas han terminado! Cambiando de mapa a: {1}..."
+	}
+	"RTV_End_Restart"
+	{
+		"#format"	"{1:d}"
+		"en"		"The {1} rounds are over! Restarting map..."
+		"es"		"¡Las {1} rondas han terminado! Reiniciando mapa..."
+	}
+	"RTV_Vote_Start"
+	{
+		"en"		"Map vote has started."
+		"es"		"Se inicio la votacion para la siguiente partida."
+	}
+	"RTV_Vote_End"
+	{
+		"#format"	"{1:s},{2:d},{3:.1f}"
+		"en"		"Vote ended. Winning option: {1} ({2} votes - {3}%)"
+		"es"		"La votación ha finalizado. Opción ganadora: {1} ({2} votos - {3}%)"
+	}
+	"RTV_Vote_End_Tie"
+	{
+		"en"		"Vote ended with no votes. Keeping current map."
+		"es"		"La votación ha finalizado sin votos. Manteniendo mapa actual."
+	}
+
+	// ==========================================
+	// COMMANDS
+	// ==========================================
+	"Cmd_Credits_Balance"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have {1} credits."
+		"es"		"Tienes {1} créditos."
+	}
+	"Cmd_Credits_Give"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You gave {1} credits to {2}."
+		"es"		"Diste {1} créditos a {2}."
+	}
+	"Cmd_Credits_Usage"
+	{
+		"en"		"Usage: sm_darcreditos <#userid|name> <amount>"
+		"es"		"Uso: sm_darcreditos <#userid|name> <monto>"
+	}
+	"Cmd_Immortality_Usage"
+	{
+		"en"		"[SM] Usage: sm_giveimmortality <target>"
+		"es"		"[SM] Uso: sm_giveimmortality <target>"
+	}
+	"Spawn_Added"
+	{
+		"en"		"[SM] Added a new spawn point for TTT at your location."
+		"es"		"[SM] Se añadió un nuevo punto de spawn para TTT en tu posición."
+	}
+	"Spawn_None"
+	{
+		"en"		"[SM] There are no spawn points to delete."
+		"es"		"[SM] No hay puntos de spawn para borrar."
+	}
+	"Spawn_Deleted"
+	{
+		"en"		"[SM] Deleted the last added spawn point."
+		"es"		"[SM] Se borró el último punto de spawn añadido."
+	}
+	"Spawn_Cleared"
+	{
+		"en"		"[SM] All player spawn points for TTT have been cleared."
+		"es"		"[SM] Todos los puntos de spawn de TTT han sido borrados."
+	}
+	"Give_Wallhack_Active"
+	{
+		"en"		"You already have Wallhack active."
+		"es"		"Ya tienes Wallhack activo."
+	}
+	"Admin_Wallhack"
+	{
+		"en"		"(ADMIN) You forced the Wallhack."
+		"es"		"(ADMIN) Has forzado el Wallhack."
+	}
+	"Corpse_Inspect_Hint"
+	{
+		"en"		"Press {green}[E]{default} to inspect the corpse."
+		"es"		"Presiona {green}[E]{default} para inspeccionar el cadáver."
+	}
+	"C4_Planted"
+	{
+		"en"		"C4 planted. Explodes in 40 seconds!"
+		"es"		"C4 plantado. ¡Explota en 40 segundos!"
+	}
+	"Lootbox_Pickup_C4"
+	{
+		"en"		"You picked up a C4 from the Lootbox."
+		"es"		"Recogiste un C4 de la Lootbox."
+	}
+	"Lootbox_Pickup_Missile"
+	{
+		"en"		"You picked up a Missile from the Lootbox."
+		"es"		"Recogiste un Misil de la Lootbox."
+	}
+	"Ammo_Need_Primary"
+	{
+		"en"		"You need a primary weapon to buy ammo."
+		"es"		"Necesitas un arma primaria para comprar munición."
+	}
+	"Ammo_No_GL"
+	{
+		"en"		"You cannot buy ammo for the grenade launcher."
+		"es"		"No puedes comprar munición para el lanzagranadas."
+	}
+	"Ammo_No_Reserve"
+	{
+		"en"		"This weapon does not use reserve ammo."
+		"es"		"Esta arma no utiliza munición de reserva."
+	}
+	"Ammo_Full"
+	{
+		"en"		"Your ammo is already full."
+		"es"		"Ya tienes la munición completa."
+	}
+	"Ammo_Restocked"
+	{
+		"en"		"Ammo restocked to maximum."
+		"es"		"Munición reabastecida al máximo."
+	}
+	"Item_Duplicate_Refund"
+	{
+		"#format"	"{1:d}"
+		"en"		"You already have this item in your inventory, {1} credits were refunded."
+		"es"		"Este item ya está en tu inventario, por ende se te devolvieron {1} créditos."
+	}
+	"Admin_Role_Traitor"
+	{
+		"en"		"You are a {green}TRAITOR{default} (Admin Override)."
+		"es"		"Eres un {green}TRAIDOR{default} (Admin Override)."
+	}
+	"Admin_Role_Detective"
+	{
+		"en"		"You are a DETECTIVE (Admin Override)."
+		"es"		"Eres un DETECTIVE (Admin Override)."
+	}
+	"Admin_Role_Innocent"
+	{
+		"en"		"You are an {olive}INNOCENT{default} (Admin Override)."
+		"es"		"Eres un {olive}INOCENTE{default} (Admin Override)."
+	}
+	"Karma_Penalty_Done"
+	{
+		"en"		"You have served your penalty. 50 Karma has been added."
+		"es"		"Has cumplido tu penalización. Se te han agregado 50 de Karma."
+	}
+	"Karma_Penalty_Remaining"
+	{
+		"#format"	"{1:d}"
+		"en"		"You are penalized. Rounds remaining: {1}"
+		"es"		"Estás penalizado. Rondas restantes: {1}"
+	}
+	"Spawn_Special"
+	{
+		"#format"	"{1:s}"
+		"en"		"You spawned a {1}."
+		"es"		"Spawneaste un {1}."
+	}
+	"Spawn_Special_Fail"
+	{
+		"en"		"Could not spawn infected. Try another position."
+		"es"		"No se pudo invocar al infectado. Intenta en otra posición."
+	}
+	"Spawn_Tank"
+	{
+		"en"		"You spawned a Tank."
+		"es"		"Spawneaste un Tank."
+	}
+	"Spawn_Tank_Fail"
+	{
+		"en"		"Could not spawn the Tank. Try another position."
+		"es"		"No se pudo invocar al Tank. Intenta en otra posición."
+	}
+	"Lootbox_Given"
+	{
+		"#format"	"{1:s}"
+		"en"		"The Lootbox gave you: {1}"
+		"es"		"El Lootbox te dio: {1}"
+	}
+	"Randomizer_Start"
+	{
+		"en"		"A {green}Randomizer{default} has started, roles will change in 3 seconds."
+		"es"		"Se inició un {green}Randomizer{default}, los roles se cambiarán en 3 segundos."
+	}
+	"Randomizer_Cancel"
+	{
+		"en"		"The {green}Randomizer{default} has been canceled because the round ended."
+		"es"		"El {green}Randomizer{default} se ha cancelado porque la ronda terminó."
+	}
+	"Randomizer_Countdown"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"A {green}Randomizer{default} has started, roles will change in {1} second{2}."
+		"es"		"Se inició un {green}Randomizer{default}, los roles se cambiarán en {1} segundo{2}."
+	}
+	"Karma_Spectator_Kick"
+	{
+		"en"		"You were moved to spectator for horrible behavior. You have to wait 5 rounds without disconnecting to rejoin."
+		"es"		"Fuiste movido a espectador por tener un horrible comportamiento. Tendrás que esperar 5 rondas sin desconectarte para poder reintegrarte."
+	}
+	"Karma_Zero_Death"
+	{
+		"en"		"You died instantly for having 0 Karma."
+		"es"		"Has muerto instantáneamente por tener Karma 0."
+	}
+	"Role_Requirements"
+	{
+		"en"		"Your reputation is too low to apply for this role."
+		"es"		"Tu reputación es demasiado baja para postularte a este rol."
+	}
+	// ---- Karma log event strings (shown in round summary) ----
+	"Karma_Log_PenaltyServed"
+	{
+		"en"		"Penalty Served (5 rounds)"
+		"es"		"Penalización Cumplida (5 rondas)"
+	}
+	"Karma_Log_CleanRound"
+	{
+		"en"		"Clean Round"
+		"es"		"Ronda Limpia"
+	}
+	"Karma_Log_Survived"
+	{
+		"en"		"Survival"
+		"es"		"Supervivencia"
+	}
+	"Karma_Log_CleanStreak"
+	{
+		"en"		"10-Round Clean Streak"
+		"es"		"Racha de 10 Rondas Limpias"
+	}
+	"Karma_Log_Tank"
+	{
+		"en"		"{green}Tank{default} eliminated"
+		"es"		"{green}Tank{default} eliminado"
+	}
+	"Karma_Log_Special"
+	{
+		"en"		"{green}Special Infected{default} eliminated"
+		"es"		"{green}Infectado Especial{default} eliminado"
+	}
+	"Karma_Log_KillInnocent"
+	{
+		"en"		"{olive}Innocent{default} eliminated"
+		"es"		"{olive}Inocente{default} eliminado"
+	}
+	"Karma_Log_KillDetective"
+	{
+		"en"		"{lightgreen}Detective{default} eliminated"
+		"es"		"{lightgreen}Detective{default} eliminado"
+	}
+	"Karma_Log_KillTraitor"
+	{
+		"en"		"{green}Traitor{default} eliminated"
+		"es"		"{green}Traidor{default} eliminado"
+	}
+	"Karma_Log_C4Defused"
+	{
+		"en"		"C4 defused"
+		"es"		"C4 defuseado"
+	}
+	"Karma_Log_Witch"
+	{
+		"en"		"{green}Witch{default} eliminated"
+		"es"		"{green}Witch{default} eliminada"
+	}
+	// ---- Role name strings (used in corpse menus & HUD) ----
+	"Role_Name_Traitor"
+	{
+		"en"		"Traitor"
+		"es"		"Traidor"
+	}
+	"Role_Name_Detective"
+	{
+		"en"		"Detective"
+		"es"		"Detective"
+	}
+	"Role_Name_Innocent"
+	{
+		"en"		"Innocent"
+		"es"		"Inocente"
+	}
+	"Role_Name_Disconnected"
+	{
+		"en"		"Disconnected Traitor"
+		"es"		"Traidor Desconectado"
+	}
+	"Role_Name_Unknown"
+	{
+		"en"		"Unknown"
+		"es"		"Desconocido"
+	}
+	"Corpse_Weapon_Unknown"
+	{
+		"en"		"Unknown/Gravity"
+		"es"		"Desconocida/Gravedad"
+	}
+	// ---- Corpse menu ----
+	"Corpse_Menu_Exit"
+	{
+		"en"		"Close"
+		"es"		"Salir"
+	}
+	// ---- RTV menu ----
+	"RTV_Menu_Title"
+	{
+		"#format"	"{1:d}"
+		"en"		"RTV ({1}s remaining)"
+		"es"		"RTV (Faltan {1}s)"
+	}
+	"RTV_Extend_Option_Voted"
+	{
+		"#format"	"{1:d}"
+		"en"		"[X] Extend map (+{1} rounds)"
+		"es"		"[X] Alargar mapa (+{1} rondas)"
+	}
+	"RTV_Extend_Option_Plain"
+	{
+		"#format"	"{1:d}"
+		"en"		"Extend map (+{1} rounds)"
+		"es"		"Alargar mapa (+{1} rondas)"
+	}
+	"RTV_Extend_Display"
+	{
+		"#format"	"{1:d}"
+		"en"		"Extend map (+{1} rounds)"
+		"es"		"Alargar mapa (+{1} rondas)"
+	}
+	// ---- Admin commands ----
+	"Cmd_GiveCredits_Usage"
+	{
+		"en"		"Usage: sm_darcreditos <#userid|name> <amount>"
+		"es"		"Uso: sm_darcreditos <#userid|name> <monto>"
+	}
+	"Cmd_GiveCredits_Done"
+	{
+		"#format"	"{1:d},{2:N}"
+		"en"		"You gave {1} credits to {2}."
+		"es"		"Diste {1} créditos a {2}."
+	}
+	"Cmd_GiveImmortality_Usage"
+	{
+		"en"		"[SM] Usage: sm_giveimmortality <target>"
+		"es"		"[SM] Uso: sm_giveimmortality <target>"
+	}
+	// ---- Lootbox item names ----
+	"Lootbox_Item_Kevlar"
+	{
+		"en" "Kevlar"
+		"es" "Chaleco"
+	}
+	"Lootbox_Item_Ammo"
+	{
+		"en" "Ammo"
+		"es" "Munición"
+	}
+	"Lootbox_Item_Bat"
+	{
+		"en" "Wooden Bat"
+		"es" "Bate de Madera"
+	}
+	"Lootbox_Item_KevlarHelmet"
+	{
+		"en" "Kevlar + Helmet"
+		"es" "Chaleco + Casco"
+	}
+	"Lootbox_Item_Defuser"
+	{
+		"en" "C4 Defuser"
+		"es" "Defuser de C4"
+	}
+	"Lootbox_Item_Horde"
+	{
+		"en" "Zombie Horde"
+		"es" "Horda de Zombies"
+	}
+	"Lootbox_Item_Deagle"
+	{
+		"en" "Desert Eagle"
+		"es" "Desert Eagle"
+	}
+	"Lootbox_Item_Identifier"
+	{
+		"en" "Corpse Identifier"
+		"es" "Identificador de Cadáver"
+	}
+	"Lootbox_Item_Pills"
+	{
+		"en" "Pain Pills"
+		"es" "Píldora"
+	}
+	"Lootbox_Item_Wallhack"
+	{
+		"en" "Wallhack"
+		"es" "Wallhack"
+	}
+	"Lootbox_Item_Taser"
+	{
+		"en" "Taser"
+		"es" "Taser"
+	}
+	"Lootbox_Item_TraitorNext"
+	{
+		"en" "Traitor Next Round"
+		"es" "Traidor Sig. Ronda"
+	}
+	"Lootbox_Item_GL"
+	{
+		"en" "Grenade Launcher"
+		"es" "Lanzagranadas"
+	}
+	"Lootbox_Item_C4"
+	{
+		"en" "C4"
+		"es" "C4"
+	}
+	"Lootbox_Item_DetNow"
+	{
+		"en" "Detective Now"
+		"es" "Detective Ahora"
+	}
+	"Lootbox_Item_Missile"
+	{
+		"en" "Missile"
+		"es" "Misil"
+	}
+	"Lootbox_Item_Special"
+	{
+		"en" "Special Infected"
+		"es" "Infectado Especial"
+	}
+	"Lootbox_Item_TraitorNow"
+	{
+		"en" "Traitor Now"
+		"es" "Traidor Ahora"
+	}
+	"Lootbox_Item_Tank"
+	{
+		"en" "Tank"
+		"es" "Tank"
+	}
+	"Lootbox_Item_Immortality"
+	{
+		"en" "Immortality"
+		"es" "Inmortalidad"
+	}
+	"Lootbox_Item_Piano"
+	{
+		"en" "A piano?"
+		"es" "¿Un piano?"
+	}
+	"Lootbox_Item_Randomizer"
+	{
+		"en" "Randomizer"
+		"es" "Randomizer"
+	}
+	"Lootbox_Item_Witch"
+	{
+		"en" "Witch"
+		"es" "Witch"
+	}
+	"Karma_Spectator"
+	{
+		"en"		"You were moved to spectator for bad behavior. Wait 5 rounds to rejoin."
+		"es"		"Fuiste movido a espectador por mal comportamiento. Espera 5 rondas para reintegrarte."
+	}
+	"Karma_Suicide"
+	{
+		"en"		"You died instantly for having 0 Karma."
+		"es"		"Has muerto instantáneamente por tener Karma 0."
+	}
+	"Player_Disconnected"
+	{
+		"en"		"A player disconnected during the round."
+		"es"		"Un jugador se desconectó durante la ronda."
+	}
+	"NeedMorePlayers"
+	{
+		"#format"	"{1:d}"
+		"en"		"Waiting for players... Need at least {1} players to start."
+		"es"		"Esperando jugadores... Se necesitan al menos {1} jugadores para iniciar el juego."
+	}
+	"StartingIn"
+	{
+		"#format"	"{1:d}"
+		"en"		"Starting in {1} seconds..."
+		"es"		"Iniciando en {1} segundos..."
+	}
+}
